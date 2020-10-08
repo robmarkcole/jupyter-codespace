@@ -5,7 +5,7 @@ Tryout running jupyter notebooks in a Github Codespace - basically vscode in the
 * https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces
 
 ## Issues
-* Worked first time, now getting timeout errors
+* Worked first time, now getting timeout errors: `Timed out waiting to get a heartbeat from kernel process.` Possibly [this issue](https://github.com/microsoft/vscode-python/issues/13365). Solution appears to be up/downgraring the vscode-python extension
 
 ### FAQ
 * Each codespace is associated with a specific branch of a repository. You can create more than one codespace per repository or even per branch. However, each user account has a two-codespace limit during limited public beta. 
