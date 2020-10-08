@@ -2,7 +2,8 @@
 Tryout running jupyter notebooks in a Github Codespace - basically vscode in the browser.
 Summary: unreliable owing to issue below, wait until this is out of beta
 
-* To create this repo followed https://dlite.cc/2020/05/26/github-codespaces-machine-learning.html, uses https://github.com/Microsoft/vscode-python
+* To create this repo followed https://dlite.cc/2020/05/26/github-codespaces-machine-learning.html, repo [here](https://github.com/whisk-ml/disaster_tweets)
+* uses https://github.com/Microsoft/vscode-python
 * https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces
 
 ## Issues
