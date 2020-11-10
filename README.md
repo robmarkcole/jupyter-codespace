@@ -7,6 +7,11 @@ Summary: unreliable owing to issue below, wait until this is out of beta
 * https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces
 * Also a must read https://fastpages.fast.ai/codespaces
 
+## Setup
+* `pip install notebook`
+* Open the notebook, vscode will start the server
+* Forward port 8080
+
 ## Issues
 * Worked first time, now getting timeout errors: `Timed out waiting to get a heartbeat from kernel process.` Possibly [this issue](https://github.com/microsoft/vscode-python/issues/13365). Solution appears to be up/downgraring the vscode-python extension
 
